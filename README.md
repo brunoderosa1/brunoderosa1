@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Bruno De Rosa</h1>
 <hr>
-<h2 align"center" >Web Developer @ <a href="https://www.taggify.net" target="_blank" rel="noreferrer" >Taggify</a></h2>
+<h3 align="center" >Web Developer @ <a href="https://www.taggify.net" target="_blank" rel="noreferrer" >Taggify</a></h3>
 <hr>
 
 <p>Currently learning AWS.</p>
