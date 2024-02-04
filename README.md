@@ -26,6 +26,7 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
+<p>This is my personal <a href="https://www.brunoderosa.com" target="_blank" rel="noreferrer" >site</a>, new version on the way.</p>
 
 <!--
 **brunoderosa1/brunoderosa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
